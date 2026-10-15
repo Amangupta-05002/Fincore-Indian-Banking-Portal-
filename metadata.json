@@ -1,0 +1,6 @@
+{
+  "name": "FinCore — Indian Banking & Transaction Management System",
+  "description": "Clean, modern, professional Indian internet banking and transaction management system with IMPS, NEFT, RTGS, IFSC validation, and Java 21 Spring Boot REST API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
